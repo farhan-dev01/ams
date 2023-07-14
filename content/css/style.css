@@ -1,0 +1,522 @@
+
+/* ----------------------
+    Customized Style
+----------------------- */
+/* Fonts */ 
+@font-face {
+    font-family: 'ubunturegular';
+    src: url('../fonts/ubuntu-regular-webfont.woff2') format('woff2'),
+         url('../fonts/ubuntu-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaNeueLTStd-Lt';
+    src: url('../fonts/HelveticaNeueLTStd-Lt.eot?#iefix') format('embedded-opentype'),  url('../fonts/HelveticaNeueLTStd-Lt.otf')  format('opentype'),
+           url('../fonts/HelveticaNeueLTStd-Lt.woff') format('woff'), url('../fonts/HelveticaNeueLTStd-Lt.ttf')  format('truetype'), url('../fonts/HelveticaNeueLTStd-Lt.svg#HelveticaNeueLTStd-Lt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+/* Container Size */
+.container{width: 100%; max-width: 1315px;}
+
+/* Sticky Footer */
+html, body {height: 100%; font-family: 'ubunturegular';}
+
+/* Colors */
+.bg-secondary.light{background-color: #f2eff8!important;}
+
+/* Buttons */
+.btn-success,
+.btn-danger{font: normal normal 13px/31px 'ubunturegular'; min-width: 162px; text-transform: uppercase; color: #fff; outline: none; border: none;}
+.btn-primary{font: normal normal 13px/31px 'ubunturegular'; min-width: 162px; text-transform: uppercase; background-color: #6824db; color: #fff; outline: none; border: none;}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:active:focus{background-color: #420b9e; outline: none;
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+        -ms-box-shadow: none;
+         -o-box-shadow: none;
+            box-shadow: none;
+}
+.roundBtn{
+    -webkit-border-radius: 120px;
+       -moz-border-radius: 120px;
+        -ms-border-radius: 120px;
+         -o-border-radius: 120px;
+            border-radius: 120px;
+}
+.profileButton{display: block; width: 33px; height: 33px; background: url('../img/add-photo.png') no-repeat center center;
+   -webkit-border-radius: 100%;
+      -moz-border-radius: 100%;
+       -ms-border-radius: 100%;
+        -o-border-radius: 100%;
+           border-radius: 100%;
+}
+.printBtn{background: url('../img/print.png') no-repeat left center; display: block; position: absolute; bottom: ©0px; right: 10%; color: #404b78; padding: 0px 0px 0px 55px; line-height: 42px;}
+.printBtn:hover{text-decoration: none;}
+/* Typography */
+h1, h2, h3, h4, h5, h6{font-family: 'ubunturegular';}
+
+/* Box Shadows  */
+.boxShadow{
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+       -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+        -ms-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+         -o-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+            box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+}
+
+/* Border & Border Radius */
+.round{
+   -webkit-border-radius: 12px;
+      -moz-border-radius: 12px;
+       -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+           border-radius: 12px;
+}
+
+/* Form Elements */
+.form-group{margin-bottom: 22px;}
+.form-group label{font: normal normal 16px/16px 'ubunturegular'; color: #414c7a; margin-bottom: 15px;}
+.form-control{padding-top: .750rem; padding-bottom: .750rem; background-color: #f8f9fe; border: 1px solid #f3f4f8;}
+.form-control:focus {
+   color: #495057;
+   background-color: #f8f9fe;
+   border-color: #cecfd3;
+   outline: 0;
+   -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+       -ms-box-shadow: none;
+        -o-box-shadow: none;
+           box-shadow: none;
+}
+.form-group .btn{margin-top: 25px;}
+
+/* Icons */
+.prevIcon,
+.nextIcon{display: inline-block; width: 7px; height: 13px; background-repeat: no-repeat; background-color: transparent;}
+.prevIcon{background-image: url('../img/prev.png'); background-position: left center; margin-right: 8px;}
+.nextIcon{background-image: url('../img/next.png'); background-position: left center; margin-left: 8px;}
+.icon-dashboard{background: url('../img/dashboard.png') no-repeat 8px center;}
+
+/* -----------------------
+        Panel Styles
+----------------------- */
+.panel-heading{background-color: #6824db;}
+.arList{list-style: none; list-style-type: none;}
+
+
+/* -----------------------
+        Header
+------------------------ */
+.pageHeader{
+   position: relative;
+   z-index: 5;
+   margin-bottom: 40px;
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+       -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+        -ms-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+         -o-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+            box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+}
+.pageLogo{padding: 28px 35px;}
+.headerSearchForm{padding-top: 20px; padding-bottom: 20px;}
+.formField::-webkit-input-placeholder {font-family: 'HelveticaNeueLTStd-Lt'; font-size: 18px; letter-spacing: 0.7px; color: #adb2d0;}
+.formField::-moz-placeholder {font-family: 'HelveticaNeueLTStd-Lt'; font-size: 18px; letter-spacing: 0.7px; color: #adb2d0;}
+.formField:-ms-input-placeholder {font-family: 'HelveticaNeueLTStd-Lt'; font-size: 18px; letter-spacing: 0.7px; color: #adb2d0;}
+.formField:-moz-placeholder {font-family: 'HelveticaNeueLTStd-Lt'; font-size: 18px; letter-spacing: 0.7px; color: #adb2d0;}
+.headerBtnWrapper{padding-top: 16px; padding-bottom: 16px;}
+.headerBtnWrapper a:first-child {margin-left: 25px;}
+.logOutLink{font: normal normal 14px/44px 'HelveticaNeueLTStd-Lt'; color: #adb2cf; text-transform: uppercase; text-decoration: none; letter-spacing: 0.7px;}
+.logOutLink:hover,
+.logOutLink:focus,
+.logOutLink:active,
+.logOutLink:visited,
+.logOutLink:focus:active{color: #8186a4; text-decoration: none;}
+
+/* Navigation Styles */
+.mp-pushed .pageLogo{display: none;}
+.mp-menu{width: 242px;}
+.mp-level{padding: 20px 15px;}
+.menuLogo{margin-bottom: 30px;}
+.mp-menu ul{margin-left: -15px; margin-right: -15px;}
+#mp-pusher .mp-menu ul li > a{ padding: 0px 0px 0px 10px; font: normal normal 16px/30px 'ubunturegular';
+   -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+       -ms-box-shadow: none;
+        -o-box-shadow: none;
+           box-shadow: none;
+}
+#mp-pusher .mp-menu ul li > a:hover{text-decoration: none; background-color: #3b4049;}
+.icon:before{margin-right: 1.2em}
+
+/*------------------------
+      Page Content
+-------------------------*/
+.pageTitle{margin-bottom: 55px;}
+.pageTitle span{color: #acafc0; font-size: 10px; font-weight: bold; Padding-left: 6px;}
+.card{ border: none;
+   -webkit-border-radius: 12px;
+      -moz-border-radius: 12px;
+       -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+           border-radius: 12px;
+}
+.card-body{padding: 45px 30px 22px 30px;}
+.card-body img{margin: 35px auto 5px auto;}
+.pagination{padding-top: 45px;}
+.pagination a{display: inline-block; width: 28px; height: 28px; border: 1px solid #c2c7db; color: #c2c7db; margin-right: 5px;
+   -webkit-border-radius: 100px;
+      -moz-border-radius: 100px;
+       -ms-border-radius: 100px;
+        -o-border-radius: 100px;
+           border-radius: 100px;
+}
+.pagination a.active,
+.pagination a:hover{color: #6824da; border-color: #6824da; text-decoration: none;}
+/* -----------------------
+    Login Page Styles
+------------------------ */
+.rightSection{background: url('../img/login-bg.jpg') no-repeat right top; background-size: cover;}
+.logoLoginPage{position: absolute; display: block; left: 15px; top: 15px;}
+
+/*------------------------
+    Push Menu styles
+-------------------------*/
+.mp-level{background-color: #151b26;}
+.mp-menu ul li::before{color: rgba(255,255,255,0.7)}
+.mp-menu ul li > a{color: #fff;
+    -webkit-text-shadow: 0 0 1px rgba(255,255,255,0.1);
+       -moz-text-shadow: 0 0 1px rgba(255,255,255,0.1);
+        -ms-text-shadow: 0 0 1px rgba(255,255,255,0.1);
+         -o-text-shadow: 0 0 1px rgba(255,255,255,0.1);
+            text-shadow: 0 0 1px rgba(255,255,255,0.1);
+    -webkit-box-shadow: inset 0 -1px rgba(255,255,255,0.2);
+       -moz-box-shadow: inset 0 -1px rgba(255,255,255,0.2);
+        -ms-box-shadow: inset 0 -1px rgba(255,255,255,0.2);
+         -o-box-shadow: inset 0 -1px rgba(255,255,255,0.2);
+            box-shadow: inset 0 -1px rgba(255,255,255,0.2);
+}
+.mp-menu h2{
+    color: rgba(255,255,255,0.4);
+    -webkit-text-shadow: 0 0 1px rgba(0,0,0,0.1);
+    -moz-text-shadow: 0 0 1px rgba(0,0,0,0.1);
+    -ms-text-shadow: 0 0 1px rgba(0,0,0,0.1);
+    -o-text-shadow: 0 0 1px rgba(0,0,0,0.1);
+    text-shadow: 0 0 1px rgba(0,0,0,0.1);
+}
+.mp-level > ul > li:first-child > a{
+    -webkit-box-shadow: inset 0 -1px rgba(255,255,255,0.2), inset 0 1px rgba(255,255,255,0.2);
+       -moz-box-shadow: inset 0 -1px rgba(255,255,255,0.2), inset 0 1px rgba(255,255,255,0.2);
+        -ms-box-shadow: inset 0 -1px rgba(255,255,255,0.2), inset 0 1px rgba(255,255,255,0.2);
+            box-shadow: inset 0 -1px rgba(255,255,255,0.2), inset 0 1px rgba(255,255,255,0.2);
+            box-shadow: inset 0 -1px rgba(255,255,255,0.2), inset 0 1px rgba(255,255,255,0.2);
+}
+.mp-back{
+   margin: 0px -15px 15px -15px;
+    background: rgba(255,255,255,0.1);
+    -webkit-box-shadow: inset 0 1px rgba(255,255,255,0.1);
+       -moz-box-shadow: inset 0 1px rgba(255,255,255,0.1);
+        -ms-box-shadow: inset 0 1px rgba(255,255,255,0.1);
+         -o-box-shadow: inset 0 1px rgba(255,255,255,0.1);
+            box-shadow: inset 0 1px rgba(255,255,255,0.1);
+}
+.mp-back::after{color: rgba(255,255,255,0.3)}
+.navbar-toggler{border: 1px solid #000000;}
+.menu-trigger:before{background: #000000; top: 2px; width: 25px; height: 3px;
+    -webkit-box-shadow: 0 3px #fff, 0 7px #000, 0 10px #fff, 0 14px #000;
+       -moz-box-shadow: 0 3px #fff, 0 7px #000, 0 10px #fff, 0 14px #000;
+        -ms-box-shadow: 0 3px #fff, 0 7px #000, 0 10px #fff, 0 14px #000;
+         -o-box-shadow: 0 3px #fff, 0 7px #000, 0 10px #fff, 0 14px #000;
+            box-shadow: 0 3px #fff, 0 7px #000, 0 10px #fff, 0 14px #000;
+}
+.pageHeader p{width: 25px; margin: 22px 0px 0px 35px;}
+.menu-trigger{padding-left: 26px; padding-bottom: 5px;}
+
+/*-------------------------
+      Add Employee
+--------------------------*/
+.profileImage{width: 111px; height: 111px; margin: 0px auto; position: relative;}
+.profileImage .profileButton{position: absolute; right: -12px; bottom: 8px;}
+
+/* -----------------------
+    Table Structure
+------------------------ */
+.monthWrap{ max-width: 188px; margin: 0px auto 20px auto; padding-left: 38px; background: url('../img/calander.png') no-repeat left center;}
+.monthWrap a{color: #6824db; display: inline-block; font-weight: bold; text-transform: uppercase;}
+.monthWrap a:hover{text-decoration: none;}
+.monthWrap a:first-child{background: url('../img/prev.png') no-repeat left center; width: 7px; height: 13px;}
+.monthWrap a:last-child{background: url('../img/next.png') no-repeat right center; width: 7px; height: 13px; }
+.monthWrap a:nth-child(2){padding-left: 8px; padding-right: 8px; line-height: 22px;}
+span.pointer{cursor: pointer !important; display: block !important;}
+.popOver{
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+         -o-border-radius: 5px;
+            border-radius: 5px;
+    -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.35);
+       -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.35);
+        -ms-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.35);
+         -o-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.35);
+            box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.35);
+}
+.form-check input[type="radio"] {display: none;}
+.form-check label { font-size: 12px; font-weight: bold; line-height: 10px; cursor: pointer; display: block; padding: 10px 0px 10px 35px; position: relative; background: white; whitespace: no-wrap; overflow: hidden; text-overflow: ellipsis; transition: all 0.15s ease; margin-bottom: 0px;}
+.form-check  label:first-of-type {border: 0;}
+.form-check label:before {content: ""; position: absolute; right: 1rem; top: 1rem; width: 12px; height: 12px; border-radius: 50%; border: 2px solid #ccc;} 
+.form-check input:checked + label:before { border-color: white; border: none; background: #2dcb6e;}
+.form-check input:disabled + label { background: #efefef; color: rgba(0, 0, 0, 0.5); cursor: not-allowed;}
+.form-check input:disabled + label:hover { border-color: rgba(0, 0, 0, 0.1);}
+.form-check input:disabled + label:before { border-color: white; background: white;}
+label.present{background-image: url('../img/Present.png'); background-repeat: no-repeat; background-position: left center;}
+label.absent{background-image: url('../img/Absent.png'); background-repeat: no-repeat; background-position: left center;}
+label.workOnSite{background-image: url('../img/Working-on-Site.png'); background-repeat: no-repeat; background-position: left center;}
+label.unpaidLeave{background-image: url('../img/Unpaid-leave.png'); background-repeat: no-repeat; background-position: left center;}
+label.weeklyOff{background-image: url('../img/Weekly-off.png'); background-repeat: no-repeat; background-position: left center;}
+label.maternityLeave{background-image: url('../img/Maternity-Leave.png'); background-repeat: no-repeat; background-position: left center;}
+label.annualLeave{background-image: url('../img/Annual-Leave.png'); background-repeat: no-repeat; background-position: left center;}
+label.compassionate{background-image: url('../img/Compassionate.png'); background-repeat: no-repeat; background-position: left center;}
+label.sickLeave{background-image: url('../img/Sick-Leave.png'); background-repeat: no-repeat; background-position: left center;}
+label.paternityLeave{background-image: url('../img/Paternity-leave.png'); background-repeat: no-repeat; background-position: left center;}
+label.businessTrip{background-image: url('../img/Business-Trip.png'); background-repeat: no-repeat; background-position: left center;}
+label.publicHoliday{background-image: url('../img/Public-holidays.png'); background-repeat: no-repeat; background-position: left center;}
+
+.employeListHeading,
+.employeListHeading li{display: block; list-style: none; list-style-type: none; margin: 0px 0px; padding: 0px 0px;}
+.employeListHeading{margin-bottom: 22px;}
+.employeListHeading li{float: left; width: 31.5px; font-size: 13px; text-align: center; color: #404b78; font-weight: bold;}
+.employeListHeading li:first-child{min-width: 205px; text-align: left; line-height: 38px;}
+.employeListHeading li:nth-child(2){min-width: 100px; text-align: left; line-height: 38px;}
+.employeListHeading li label,
+.employeListHeading li span{display: block; text-align: center; margin: 0px 0px; padding: 0px 0px;}
+.employeListHeading li span{font-weight: light; color:#c2c7db; font-size: 12px;}
+
+.employeeList,
+.employeeList li,
+.employeeListDesc,
+.employeeListDesc li{display: block; list-style: none; list-style-type: none; margin: 0px 0px; padding: 0px 0px;}
+
+.employeeList > li{margin-bottom: 13px;}
+.employeeListDesc li{float: left; width: 31.5px; font-size: 13px; text-align: center; color: #404b78; font-weight: bold;}
+.employeeListDesc li:first-child{min-width: 205px; text-align: left; line-height: 38px;}
+.employeeListDesc li:nth-child(2){min-width: 100px; text-align: left; line-height: 38px;}
+.employeeListDesc li label,
+.employeeListDesc li span{display: block; text-align: center; margin: 0px 0px; padding: 0px 0px;}
+.employeeListDesc li span{font-weight: light; color:#c2c7db; font-size: 12px;}
+.employeeImage img,
+.employeeImage label{float: left; display: block;}
+.employeeImage img{width: 42px; height: 42px; margin: 22px 15px 22px 8px}
+.employeeImage label{width: 100%; max-width: 140px; font-size: 17px; color: #3f4c78; line-height: 90px;}
+.employeeListDesc li.employeeID{line-height: 90px; color: #c2c7db; font-weight: normal;}
+.employeeListDesc .icon{display: block; width: 100%; height: 90px;}
+
+.iconDescList{ display: block; list-style: none; list-style-type: none; margin: 50px 0px; padding: 0px 0px;}
+.iconDescList li{width: 165px; display: block; float: left; list-style: none; list-style-type: none; margin: 0px 0px 0px 0px;; padding: 0px 0px 0px 35px;}
+.iconDescList li:nth-child(7){clear: both;}
+.iconDescList li label{line-height: 28px; font-size: 13px;}
+
+/* -----------------------
+    Attendance Report
+------------------------ */
+.leftColumn{border-right: none !important; margin: 5% 0px;
+   -webkit-border-radius: 12px 0px 0px 12px;
+      -moz-border-radius: 12px 0px 0px 12px;
+       -ms-border-radius: 12px 0px 0px 12px;
+        -o-border-radius: 12px 0px 0px 12px;
+           border-radius: 12px 0px 0px 12px;
+}
+.empDesc{padding: 45% 0px;}
+.empDesc h5{font-size: 18px;}
+.empDesc span{color: #c2c7db; font-size: 14px;}
+.rightColumn{
+   -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+       -ms-box-sizing: border-box;
+        -o-box-sizing: border-box;
+           box-sizing: border-box;
+}
+.panel-heading{
+   -webkit-border-radius: 12px 12px 0px 0px;
+      -moz-border-radius: 12px 12px 0px 0px;
+       -ms-border-radius: 12px 12px 0px 0px;
+        -o-border-radius: 12px 12px 0px 0px;
+           border-radius: 12px 12px 0px 0px;
+}
+.rightColumn ul li{color: #404b78; line-height: 29px;}
+.presentIcon{background: url('../img/Present.png') no-repeat left center; }
+.defaultIcon{background: url('../img/default.png') no-repeat left center; opacity: 0.2;}
+.absentIcon{background: url('../img/Absent.png') no-repeat left center; }
+.workingOnSiteIcon{background: url('../img/Working-on-Site.png') no-repeat left center; }
+.unPaidLeaveIcon{background: url('../img/Unpaid-leave.png') no-repeat left center; }
+.weeklyOffIcon{background: url('../img/Weekly-off.png') no-repeat left center; }
+.maternityLeaveIcon{background: url('../img/Maternity-Leave.png') no-repeat left center; }
+.annualLeaveIcon{background: url('../img/Annual-Leave.png') no-repeat left center; }
+.compassionateIcon{background: url('../img/Compassionate.png') no-repeat left center; }
+.sickLeaveIcon{background: url('../img/Sick-Leave.png') no-repeat left center; }
+.paternityLeaveIcon{background: url('../img/Paternity-leave.png') no-repeat left center; }
+.businessTripIcon{background: url('../img/Business-Trip.png') no-repeat left center; }
+.publicHolidayIcon{background: url('../img/Public-holidays.png') no-repeat left center;}
+
+.Eid_ul_AzhaIcon{background: url('../img/Eid_al_adha.png') no-repeat left center;}
+.Eid_ul_FitarIcon{background: url('../img/Eid_ul_fitr.png') no-repeat left center;}
+.National_DayIcon{background: url('../img/National_Day.png') no-repeat left center;}
+.Sports_DayIcon{background: url('../img/Sports_day.png') no-repeat left center;}
+.rightColumn ul li div{padding-left: 70px; background-position: 33px center;}
+
+
+
+/* ---------------------------
+       Add Holidays Page
+--------------------------- */
+
+/*.allEmployeeList ul li:nth-child(n+2){margin-left: 0px; margin-right: 0px;}*/
+.addHolidays{margin-top: 20px;}
+.allEmployeeList ul li:nth-child(1) div{font: normal bold 13px/22px 'ubunturegular'; color: #404b78; margin-bottom: 22px;}
+.allEmployeeList ul li{margin-bottom: 10px;}
+.holidaySno,
+.holidayStartDate,
+.holidayEndDate{font-size: 15px; color: #c2c7db; text-transform: uppercase;}
+.holidayName label{font-size: 17px; color: #404b78; margin: 0px; line-height: 90px;}
+.dateIcon{background-image: url('../img/calander_icon.png'); background-repeat: no-repeat; background-position: 95% center;}
+
+/* ----------------------
+      Filter Section
+----------------------- */
+.filterSection{background: #ffffff; height: 415px; width: 100%; position: absolute; top: -450px; left: 0px; z-index: 2; padding: 25px 0px;
+   -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+       -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+        -ms-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+         -o-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+            box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+   -webkit-transition: all 0.4s linear;
+      -moz-transition: all 0.4s linear;
+       -ms-transition: all 0.4s linear;
+        -o-transition: all 0.4s linear;
+           transition: all 0.4s linear;
+}
+.filterSection h3{margin-bottom: 45px;}
+.filterSection .container{position: relative;}
+.filterSection .container .col-md-8{position: initial;}
+.filterSection .btnWrap{position: absolute; right: 0px; bottom: 0px;}
+.filterSection .form-group label{color: #c2c7db; font-weight: bold;}
+/* .datepicker-container{top: 192px !important;} */
+.monthStart{}
+.monthEnd{}
+
+.select-hidden {
+   display: none;
+   visibility: hidden;
+   padding-right: 10px;
+ }
+ 
+ .select {
+   cursor: pointer;
+   display: inline-block;
+   position: relative;
+   font-size: 16px;
+   color: #fff;
+   width: 100%;
+   height: 49.31px;
+   -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    border-radius: 12px;
+ }
+ 
+ .select-styled {
+    line-height: 28px;
+   color: #5c658e;
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   border: 1px solid #f3f4f8;
+   background-color: #f8f9fe;
+   padding: 8px 15px;
+   -moz-transition: all 0.2s ease-in;
+   -o-transition: all 0.2s ease-in;
+   -webkit-transition: all 0.2s ease-in;
+   transition: all 0.2s ease-in;
+   -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    border-radius: 12px;
+ }
+ .select-styled:after {
+   content: "";
+   width: 0;
+   /*height: 0;*/
+   border: 7px solid transparent;
+   border-color: #5c658e transparent transparent transparent;
+   position: absolute;
+   top: 22px;
+   right: 10px;
+ }
+ .select-styled:hover {
+   background-color: #f8f9fe;
+ }
+ .select-styled:active, .select-styled.active {
+   background-color: #f8f9fe;
+ }
+ .select-styled:active:after, .select-styled.active:after {
+   top: 9px;
+   border-color: transparent transparent #fff transparent;
+ }
+ 
+ .select-options {
+   display: none;
+   position: absolute;
+   top: 100%;
+   right: 0;
+   left: 0;
+   z-index: 999;
+   margin: 0;
+   padding: 0;
+   list-style: none;
+   background-color: #ffffff;
+   overflow-y: scroll;
+    max-height: 200px;
+   display: none;
+ }
+ .select-options li {
+    color: #5c658e;
+   margin: 0;
+   padding: 12px 0;
+   text-indent: 15px;
+   border-top: 1px solid #f5f5f5;
+   -moz-transition: all 0.15s ease-in;
+   -o-transition: all 0.15s ease-in;
+   -webkit-transition: all 0.15s ease-in;
+   transition: all 0.15s ease-in;
+ }
+ .select-options li:hover {
+   color: #000000;
+   background: #fff;
+ }
+ .select-options li[rel="hide"] {
+   display: none;
+ }
+header
+{
+    
+    background-color: ghostwhite;
+}
+ .filter .box{padding: 10px 0px;}
+
+ .filter.form-check{padding: 0px 0px;}
+ .filter.form-check label{width: 50%; float: left; font-size: 15px;}
+ .filter.form-check label:before{left: 0px; top: 9px;}
+ .filter.form-check input:checked + label:before{background-color: #5b648b;}
+/* -----------------------
+      Page Footer
+------------------------ */
+.pageFooter{background: #f8f9fa; text-align: center;}
+.pageFooter p{font-size: 14px; color: #c2c7db; margin-bottom: 0px; line-height: 80px;}
+.homeFooter{font-size: 14px; color: #c2c7db; margin-bottom: 0px; line-height: 80px; display: block; padding-left: 20px; margin-top:-80px;}

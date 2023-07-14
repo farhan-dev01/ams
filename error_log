@@ -1,0 +1,71 @@
+[30-Dec-2018 19:13:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:13:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:13:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:13:41 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/add-employee.php on line 84
+[30-Dec-2018 19:13:41 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/add-employee.php on line 84
+[30-Dec-2018 19:13:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:14:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:14:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:14:01 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/mark-attendance.php on line 100
+[30-Dec-2018 19:14:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bytecrea/zoom.bytecreators.com/mark-attendance.php on line 102
+[30-Dec-2018 19:14:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:14:01 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/mark-attendance.php on line 132
+[30-Dec-2018 19:14:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bytecrea/zoom.bytecreators.com/mark-attendance.php on line 135
+[30-Dec-2018 19:14:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:14:01 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/mark-attendance.php on line 193
+[30-Dec-2018 19:14:01 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/mark-attendance.php on line 193
+[30-Dec-2018 19:18:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:20:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:23:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:24:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:24:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:24:03 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/all-employee-list.php on line 79
+[30-Dec-2018 19:24:03 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/all-employee-list.php on line 79
+[30-Dec-2018 19:24:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:24:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:24:06 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/add-employee.php on line 84
+[30-Dec-2018 19:24:06 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/add-employee.php on line 84
+[30-Dec-2018 19:24:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:24:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:24:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bytecrea_zoom'@'localhost' to database 'zoom' in /home/bytecrea/zoom.bytecreators.com/db_connection.php on line 9
+[30-Dec-2018 19:24:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/all-employee-list.php on line 79
+[30-Dec-2018 19:24:31 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/bytecrea/zoom.bytecreators.com/all-employee-list.php on line 79
+[30-Dec-2018 20:05:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bytecrea/zoom.bytecreators.com/delete-employee.php on line 6
+[30-Dec-2018 20:05:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bytecrea/zoom.bytecreators.com/delete-employee.php on line 9
+[30-Dec-2018 20:13:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bytecrea/zoom.bytecreators.com/delete-employee.php on line 6
+[30-Dec-2018 20:13:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bytecrea/zoom.bytecreators.com/delete-employee.php on line 9
+[30-Dec-2018 20:15:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bytecrea/zoom.bytecreators.com/delete-employee.php on line 6
+[30-Dec-2018 20:15:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bytecrea/zoom.bytecreators.com/delete-employee.php on line 9
+[30-Dec-2018 20:35:02 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 20:35:10 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 20:35:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 20:35:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 21:52:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 21:52:45 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 21:54:42 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 21:54:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 21:57:26 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 21:59:21 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 21:59:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 22:01:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 22:01:34 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 22:05:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bytecrea/zoom.bytecreators.com/edit-user_teamhead.php on line 79
+[30-Dec-2018 22:26:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bytecrea/zoom.bytecreators.com/edit-employee.php on line 204
+[30-Dec-2018 22:26:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bytecrea/zoom.bytecreators.com/edit-employee.php on line 204
+[30-Dec-2018 22:26:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bytecrea/zoom.bytecreators.com/edit-employee.php on line 204
+[30-Dec-2018 22:45:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bytecrea/zoom.bytecreators.com/add-user_teamhead.php on line 149
+[30-Dec-2018 22:45:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bytecrea/zoom.bytecreators.com/add-user_teamhead.php on line 149
+[30-Dec-2018 22:47:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bytecrea/zoom.bytecreators.com/add-user_teamhead.php on line 149
+[30-Dec-2018 22:47:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bytecrea/zoom.bytecreators.com/add-user_teamhead.php on line 149
+[31-Dec-2018 10:35:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/bytecrea/zoom.bytecreators.com/delete-employee.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bytecrea/zoom.bytecreators.com/delete-employee.php on line 12
+[11-Jan-2019 11:26:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bytecrea/zoom.bytecreators.com/all-employee-list-t.php on line 8
+[11-Jan-2019 11:27:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bytecrea/zoom.bytecreators.com/employee-record-t.php on line 483
+[11-Jan-2019 11:27:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bytecrea/zoom.bytecreators.com/all-employee-list-t.php on line 8
+[11-Jan-2019 11:27:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bytecrea/zoom.bytecreators.com/all-employee-list-t.php on line 8
+[11-Jan-2019 11:28:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bytecrea/zoom.bytecreators.com/all-employee-list-t.php on line 8
+[11-Jan-2019 11:28:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bytecrea/zoom.bytecreators.com/all-employee-list-t.php on line 8
+[11-Jan-2019 11:33:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bytecrea/zoom.bytecreators.com/all-employee-list-t.php on line 8
+[11-Jan-2019 11:34:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bytecrea/zoom.bytecreators.com/all-employee-list-t.php on line 49

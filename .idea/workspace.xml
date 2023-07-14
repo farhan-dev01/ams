@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7db1ccbb-7960-4062-926e-7281f1bf8e50" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="90" column="39" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
+              <folding>
+                <element signature="e#3317#4894#0#PHP" />
+                <element signature="e#255#262#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>create</find>
+      <find>26</find>
+      <find>isset($_GET['id']</find>
+      <find>prese</find>
+      <find>prin</find>
+      <find>$nmonth2 = date(&quot;m&quot;, strtotime($month)) ;</find>
+      <find>$nmonth2 = date(&quot;m&quot;, strtotime($month));</find>
+      <find>$nmonth = date(&quot;m&quot;, strtotime($month)) - 1;</find>
+      <find>pri</find>
+      <find>abc</find>
+      <find>curso</find>
+      <find>prev</find>
+      <find>add</find>
+      <find>weekl</find>
+      <find>$ycol</find>
+      <find>27</find>
+      <find>pre</find>
+      <find>print</find>
+      <find>expor</find>
+      <find>conso</find>
+      <find>req</find>
+      <find>week</find>
+      <find>page</find>
+      <find>export</find>
+      <find>//</find>
+      <find>//alert(&quot;data entered&quot;);</find>
+      <find>datepicker</find>
+      <find>$_SESSION['login_id']=$uname;</find>
+      <find>$conn1</find>
+      <find>$row['type']</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>name=&quot;rd&lt;?php echo $result['eid'] ?&gt;&quot;</replace>
+      <replace>name=&quot;rd&lt;?php echo $sno ?&gt;&quot;</replace>
+      <replace>0</replace>
+      <replace>$_POST['date']</replace>
+      <replace>$nmonth = date(&quot;m&quot;, strtotime($month))-1;</replace>
+      <replace>$nmonth = date(&quot;m&quot;, strtotime($year.'-'.$month.'-1'))-1;</replace>
+      <replace>$nmonth2 = date(&quot;m&quot;, strtotime($year.'-'.$month.'-1'))-1;</replace>
+      <replace>$nmonth2 = date(&quot;m&quot;, strtotime($year.'-'.$month.'-1'));</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Php\htdocs\farhan\Attendance</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/db_connection.php" />
+        <option value="$PROJECT_DIR$/content/js/jquery/jquery.min.js" />
+        <option value="$PROJECT_DIR$/content/js/main.js" />
+        <option value="$PROJECT_DIR$/new.php" />
+        <option value="$PROJECT_DIR$/getUsers.php" />
+        <option value="$PROJECT_DIR$/users_hr.php" />
+        <option value="$PROJECT_DIR$/users_teamhead.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/content/css/style.css" />
+        <option value="$PROJECT_DIR$/ExportToExcel/ExportFiltered-t.php" />
+        <option value="$PROJECT_DIR$/ExportToExcel/Export-t.php" />
+        <option value="$PROJECT_DIR$/ExportToExcel/ExportFiltered.php" />
+        <option value="$PROJECT_DIR$/add-department.php" />
+        <option value="$PROJECT_DIR$/add-employee.php" />
+        <option value="$PROJECT_DIR$/add-employee-t.php" />
+        <option value="$PROJECT_DIR$/add-holiday.php" />
+        <option value="$PROJECT_DIR$/add-user_hr.php" />
+        <option value="$PROJECT_DIR$/add-user_teamhead.php" />
+        <option value="$PROJECT_DIR$/all-departments.php" />
+        <option value="$PROJECT_DIR$/all-employee-list.php" />
+        <option value="$PROJECT_DIR$/all-employee-list-t.php" />
+        <option value="$PROJECT_DIR$/all-holiday.php" />
+        <option value="$PROJECT_DIR$/attendance-book-department.php" />
+        <option value="$PROJECT_DIR$/attendance-book-hr.php" />
+        <option value="$PROJECT_DIR$/attendance-report-t.php" />
+        <option value="$PROJECT_DIR$/attendance-report.php" />
+        <option value="$PROJECT_DIR$/edit-attendance.php" />
+        <option value="$PROJECT_DIR$/edit-attendance-t.php" />
+        <option value="$PROJECT_DIR$/edit-department .php" />
+        <option value="$PROJECT_DIR$/edit-employee.php" />
+        <option value="$PROJECT_DIR$/edit-employee-t.php" />
+        <option value="$PROJECT_DIR$/edit-holiday.php" />
+        <option value="$PROJECT_DIR$/edit-user_hr.php" />
+        <option value="$PROJECT_DIR$/edit-user_teamhead.php" />
+        <option value="$PROJECT_DIR$/employee-record-t.php" />
+        <option value="$PROJECT_DIR$/header_hr.php" />
+        <option value="$PROJECT_DIR$/Admin_global.php" />
+        <option value="$PROJECT_DIR$/teamhead_global.php" />
+        <option value="$PROJECT_DIR$/emp-record.php" />
+        <option value="$PROJECT_DIR$/header_department.php" />
+        <option value="$PROJECT_DIR$/emp-record-t.php" />
+        <option value="$PROJECT_DIR$/employee-record.php" />
+        <option value="$PROJECT_DIR$/mark-attendance-t.php" />
+        <option value="$PROJECT_DIR$/mark-attendance.php" />
+        <option value="$PROJECT_DIR$/profile-t.php" />
+        <option value="$PROJECT_DIR$/profile.php" />
+        <option value="$PROJECT_DIR$/print-report.php" />
+        <option value="$PROJECT_DIR$/Records-t.php" />
+        <option value="$PROJECT_DIR$/Records.php" />
+        <option value="$PROJECT_DIR$/ExportToExcel/Export.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1383" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Attendance Manegment System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Attendance Manegment System" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Attendance Manegment System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Php\htdocs\farhan\Attendance\content" />
+      <recent name="D:\Php\htdocs\farhan\Attendance\content\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attendance" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.Attendance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7db1ccbb-7960-4062-926e-7281f1bf8e50" name="Default Changelist" comment="" />
+      <created>1546265395900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546265395900</updated>
+      <workItem from="1546265408398" duration="13374000" />
+      <workItem from="1546282992557" duration="12411000" />
+      <workItem from="1546348880382" duration="10922000" />
+      <workItem from="1546444170724" duration="9643000" />
+      <workItem from="1546455382514" duration="12676000" />
+      <workItem from="1546474167195" duration="2811000" />
+      <workItem from="1546477987684" duration="1281000" />
+      <workItem from="1546523419231" duration="7933000" />
+      <workItem from="1546532550266" duration="8582000" />
+      <workItem from="1546547794342" duration="109000" />
+      <workItem from="1546597824704" duration="29312000" />
+      <workItem from="1546684530603" duration="23528000" />
+      <workItem from="1546803305222" duration="5004000" />
+      <workItem from="1546814550334" duration="2192000" />
+      <workItem from="1546863607172" duration="3915000" />
+      <workItem from="1546883058670" duration="13907000" />
+      <workItem from="1546974491918" duration="15242000" />
+      <workItem from="1547027767910" duration="17084000" />
+      <workItem from="1547135447667" duration="4209000" />
+      <workItem from="1547313101786" duration="12886000" />
+      <workItem from="1547375890627" duration="23080000" />
+      <workItem from="1547448494000" duration="8564000" />
+      <workItem from="1547484034882" duration="29570000" />
+      <workItem from="1547543811778" duration="2694000" />
+      <workItem from="1547548905826" duration="17560000" />
+      <workItem from="1547624660820" duration="30386000" />
+      <workItem from="1547695008339" duration="2457000" />
+      <workItem from="1547738039850" duration="10896000" />
+      <workItem from="1547927549952" duration="9155000" />
+      <workItem from="1547937482433" duration="291000" />
+      <workItem from="1547977833291" duration="10899000" />
+      <workItem from="1547992988472" duration="167000" />
+      <workItem from="1547993308873" duration="9867000" />
+      <workItem from="1548094769452" duration="4289000" />
+      <workItem from="1548235933701" duration="8884000" />
+      <workItem from="1548337281409" duration="1003000" />
+      <workItem from="1548423066086" duration="2930000" />
+      <workItem from="1548439870520" duration="4698000" />
+      <workItem from="1548593786034" duration="14182000" />
+      <workItem from="1548626734343" duration="2057000" />
+      <workItem from="1548672243070" duration="228000" />
+      <workItem from="1548672566586" duration="4595000" />
+      <workItem from="1548685674068" duration="6670000" />
+      <workItem from="1548732798504" duration="2275000" />
+      <workItem from="1548758707437" duration="5435000" />
+      <workItem from="1548776904168" duration="33258000" />
+      <workItem from="1548845422448" duration="600000" />
+      <workItem from="1548857679763" duration="2594000" />
+      <workItem from="1548865696347" duration="13830000" />
+      <workItem from="1548923348677" duration="1725000" />
+      <workItem from="1548932526461" duration="3808000" />
+      <workItem from="1548947521778" duration="5085000" />
+      <workItem from="1549042533140" duration="3562000" />
+      <workItem from="1549268278416" duration="6411000" />
+      <workItem from="1549277804523" duration="1172000" />
+      <workItem from="1549327372565" duration="25000" />
+      <workItem from="1549369423344" duration="626000" />
+      <workItem from="1689364242256" duration="1564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="494113000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22483222" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/new.php" />
+    <entry file="file://$PROJECT_DIR$/error_log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-737" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.640/ExportFiltered-t.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.815/Export-t.php" />
+    <entry file="file://$PROJECT_DIR$/ExportToExcel/ExportFiltered-t.php" />
+    <entry file="file://$PROJECT_DIR$/ExportToExcel/Export-t.php" />
+    <entry file="file://$PROJECT_DIR$/ExportToExcel/ExportFiltered.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="187" column="4" selection-start-line="187" selection-start-column="4" selection-end-line="187" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-employee-t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="227" column="20" selection-start-line="227" selection-start-column="20" selection-end-line="227" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-holiday.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="368" column="20" selection-start-line="368" selection-start-column="20" selection-end-line="368" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-user_hr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="259" column="3" selection-start-line="259" selection-start-column="3" selection-end-line="259" selection-end-column="3" />
+          <folding>
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-user_teamhead.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="290" column="3" selection-start-line="290" selection-start-column="3" selection-end-line="290" selection-end-column="3" />
+          <folding>
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all-departments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="231" column="19" lean-forward="true" selection-start-line="231" selection-start-column="19" selection-end-line="231" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#label#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all-employee-list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3808">
+          <caret line="224" column="1" selection-start-line="224" selection-start-column="1" selection-end-line="224" selection-end-column="1" />
+          <folding>
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all-employee-list-t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all-holiday.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="189" column="24" selection-start-line="189" selection-start-column="24" selection-end-line="189" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-book-department.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-539">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-book-hr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="93" column="22" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-report-t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16111">
+          <caret line="235" column="54" selection-start-line="235" selection-start-column="54" selection-end-line="235" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="1234" column="76" selection-start-line="1234" selection-start-column="76" selection-end-line="1234" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="726" column="98" selection-start-line="726" selection-start-column="98" selection-end-line="726" selection-end-column="98" />
+          <folding>
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-attendance-t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="680" column="98" selection-start-line="680" selection-start-column="98" selection-end-line="680" selection-end-column="98" />
+          <folding>
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-department .php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1190">
+          <caret line="110" column="1" lean-forward="true" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
+          <folding>
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-employee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5061">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-employee-t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4401">
+          <caret line="277" column="24" selection-start-line="277" selection-start-column="24" selection-end-line="277" selection-end-column="24" />
+          <folding>
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-holiday.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3230">
+          <caret line="152" column="5" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="5" />
+          <folding>
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-user_hr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="121" selection-start-line="77" selection-start-column="121" selection-end-line="77" selection-end-column="121" />
+          <folding>
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-user_teamhead.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4836">
+          <caret line="355" column="24" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
+          <folding>
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee-record-t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="501" column="96" selection-start-line="501" selection-start-column="96" selection-end-line="501" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin_global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="3" selection-start-column="1" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emp-record.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="393" column="129" selection-start-line="393" selection-start-column="129" selection-end-line="393" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header_department.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header_hr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2431">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emp-record-t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="398" column="96" selection-start-line="398" selection-start-column="96" selection-end-line="398" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee-record.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="524" column="131" selection-start-line="524" selection-start-column="131" selection-end-line="524" selection-end-column="131" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mark-attendance-t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8947">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mark-attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="692" column="119" selection-start-line="692" selection-start-column="119" selection-end-line="692" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile-t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="129" selection-start-line="77" selection-start-column="129" selection-end-line="77" selection-end-column="129" />
+          <folding>
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="77" column="129" selection-start-line="77" selection-start-column="129" selection-end-line="77" selection-end-column="129" />
+          <folding>
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+            <element signature="e#251#258#1" expanded="true" />
+            <element signature="e#253#260#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/print-report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="725" column="13" lean-forward="true" selection-start-line="725" selection-start-column="13" selection-end-line="725" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Records-t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="552" column="96" selection-start-line="552" selection-start-column="96" selection-end-line="552" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Records.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="566" column="96" selection-start-line="566" selection-start-column="96" selection-end-line="566" selection-end-column="96" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teamhead_global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users_teamhead.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3463" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users_hr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="90" column="112" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-department.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="65" column="44" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="65" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportToExcel/PHPExcel/Worksheet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2193" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportToExcel/PHPExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8089" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportToExcel/Export.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_connection.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-employee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="117" column="35" lean-forward="true" selection-start-line="117" selection-start-column="35" selection-end-line="117" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="90" column="39" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
+          <folding>
+            <element signature="e#3317#4894#0#PHP" />
+            <element signature="e#255#262#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
